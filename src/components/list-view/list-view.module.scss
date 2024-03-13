@@ -1,0 +1,12 @@
+.list-container {
+    display: flex;
+}
+.list-content {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.list-row {
+    display: flex;
+    border-bottom: 1px solid gray;
+}

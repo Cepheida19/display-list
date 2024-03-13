@@ -1,0 +1,15 @@
+.tiles-container {
+    display: flex;
+}
+.tiles-content {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.tiles-row {
+    display: flex;
+    border: 1px solid gray;
+    border-radius: 4px;
+    width: 140px;
+    padding: 5px;
+}
